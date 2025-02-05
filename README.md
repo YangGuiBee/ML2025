@@ -2,8 +2,8 @@
 # Machine Learning Study 2025
 
 
-## <img width ='150' height = '80' src = 'https://github.com/YangGuiBee/ML/blob/main/TextBook-01/images/CI.png'> 2024년 2학기 Plan 
-<img width ='900' height = '320' src = 'https://github.com/YangGuiBee/ML/blob/main/TextBook-01/images/2024plan.png'>
+## <img width ='150' height = '80' src = 'https://github.com/YangGuiBee/ML/blob/main/TextBook-01/images/CI.png'> 2025년 1학기 Plan 
+<img width ='900' height = '320' src = 'https://github.com/YangGuiBee/ML2025/blob/main/TextBook-01/images/2025ci.PNG'>
 
 Reference :<br>
 머신러닝 교과서(3판) 실습소스코드 : https://github.com/rickiepark/python-machine-learning-book-3rd-edition<br>
